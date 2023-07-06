@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gokhan</h1>
-<h3 align="center">A passionate fullstack developer from France, Paris</h3>
+<h3 align="center">A passionate fullstack developer from France, Paris.</h3>
 
-- 🔭 I’m currently in school at **Ada Tech School**
+- 🔭 I’m currently in school at **Ada Tech School.**
 
-- 🌱 I’m currently learning **React, Booststrap, Node.js, MangoDB**
+- 🌱 I’m currently learning **React, Booststrap, Node.js, MangoDB.**
 
 - 👨‍💻 CV [https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link](https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link)
 
-- ❤️ My hobbies **Piano, Cinema,**
+- ❤️ My hobbies : **piano, cinema, gaming**
 
-- 📫 How to reach me **gokhan.karakaya@outlook.fr**
+- 📫 How to reach me : **gokhan.karakaya@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
