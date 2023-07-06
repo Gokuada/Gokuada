@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gokhan</h1>
 <h3 align="center">A passionate fullstack developer from France, Paris</h3>
 
+
+
 - 🔭 I’m currently in school at **Ada Tech School**
   
 - 🤝 I’m looking for a apprenticeship **from October 2023**
