@@ -9,7 +9,7 @@
 
 - 👨‍💻 CV [https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link](https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link)
 
-- - 📫 How to reach me **gokhan.karakaya@outlook.fr**
+-  📫 How to reach me **gokhan.karakaya@outlook.fr**
 
 - ❤️ My hobbies **Piano, Cinema,**
 
