@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently in school at **Ada Tech School**
   
-- 🤝 I’m looking for a apprenticeship from October 2023 **from October 2023**
+- 🤝 I’m looking for a apprenticeship **from October 2023**
 
-- 🌱 I’m currently learning **React, Booststrap, Node.js, MangoDB**
+- 🌱 I’m currently learning : **React, Booststrap, Node.js, MangoDB**
 
-- 👨‍💻 CV [https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link](https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link)
+- 👨‍💻 CV : [https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link](https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link)
 
--  📫 How to reach me **gokhan.karakaya@outlook.fr**
+-  📫 How to reach me : **gokhan.karakaya@outlook.fr**
 
-- ❤️ My hobbies **Piano, Cinema,**
+- ❤️ My hobbies:  **piano, cinema, gamin**
 
 
 <h3 align="left">Connect with me:</h3>
