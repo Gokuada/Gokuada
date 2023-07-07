@@ -13,7 +13,7 @@
 
 -  📫 How to reach me : **gokhan.karakaya@outlook.fr**
 
-- ❤️ My hobbies:  **piano, cinema, gamin**
+- ❤️ My hobbies:  **piano, cinema, gaming**
 
 
 <h3 align="left">Connect with me:</h3>
