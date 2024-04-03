@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently in school at **Ada Tech School**
   
-- 🤝 I’m looking for a apprenticeship **from October 2023**
+- 🤝 I’m looking for a apprenticeship **from September/October 2024**
 
 - 🌱 I’m currently learning : **React, Booststrap, Node.js, MangoDB**
 
