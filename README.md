@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning : **React, Booststrap, Node.js, MangoDB**
 
-- 👨‍💻 CV : [https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link](https://drive.google.com/file/d/1y9Z45asB4Hk-ZcnLKu9gQ0p76voDjADc/view?usp=drive_link)
 
 -  📫 How to reach me : **gokhan.karakaya@outlook.fr**
 
