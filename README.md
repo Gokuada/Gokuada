@@ -5,10 +5,7 @@
 
 - 🔭 I’m currently in school at **Ada Tech School**
   
-- 🤝 I’m looking for a apprenticeship **from September/October 2024**
-
-- 🌱 I’m currently learning : **React, Booststrap, Node.js, MangoDB**
-
+- 🤝 I’m looking for a apprenticeship 
 
 -  📫 How to reach me : **gokhan.karakaya@outlook.fr**
 
